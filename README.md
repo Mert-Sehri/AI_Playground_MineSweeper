@@ -1,4 +1,4 @@
-#Created by Mert Sehri, PhD Candidate at University of Ottawa
+## Created by Mert Sehri, PhD Candidate at University of Ottawa
 
 These two python files were generated using the CoPilot tool associated with VsCode add on. 
 
